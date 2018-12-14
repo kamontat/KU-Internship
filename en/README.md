@@ -1,6 +1,11 @@
-## This folder is for International Internship
-> คำอธิบายภาษาอังกฤษ [th](README-TH.md)  
-> Thai internship [th](../th/README.md)
+# International internship documents
 
-### Description
+## This folder is for Internship in International
 
+> For [English](../README.md) description
+> Internship in [Thai](../th/README.md)
+
+## โฟรเดอนี้เป็นของการฝึกงานสหกิจในต่างประเทศ
+
+> คำอธิบาย[ภาษาไทย](../README-TH.md)
+> สำหรับการฝึกงานใน[ประเทศไทย](../th/README.md)
